@@ -1,0 +1,45 @@
+h2{
+    color: rgb(244, 145, 24);
+    margin:0px;
+    display: inline-block;
+}
+body{
+    margin: 25px;
+    background-color: rgb(202, 202, 245);
+}
+.class{
+    font-weight: 900;
+    font-family:"
+}
+.sh{
+    color: rgb(0, 0, 0);
+    font-family:  "Edu AU VIC WA NT Arrows", serif;;
+    font-weight: 900;
+}
+#p1{
+    font-family: "Playfair Display", serif;;
+    
+}
+#p2{
+    font-family: "Playfair Display", serif;;
+}
+#id{
+    float:right;
+    font-size: large;
+}
+img{
+    border: 5px solid white
+}
+footer{
+    text-align: right;
+    color:blue
+}
+@media screens( max-width:1000px){
+    /*style for screens less then 150px and greater then 1000px*/
+}
+
+
+
+
+
+
